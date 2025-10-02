@@ -1,0 +1,16 @@
+.navbar {
+    padding : 3vh;
+}
+
+
+.navbar > ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.navbar > ul > li {
+    list-style: none;
+}
+
