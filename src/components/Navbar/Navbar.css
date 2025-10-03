@@ -1,5 +1,8 @@
 .navbar {
-    padding : 3vh;
+    padding : 1vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 1vh;
+    border-radius: 5vh;
 }
 
 
@@ -12,5 +15,9 @@
 
 .navbar > ul > li {
     list-style: none;
+    border : 0.1vh solid white;
+    padding: 1vh;
+    border-radius: 2vh;
+    cursor: pointer;
 }
 
