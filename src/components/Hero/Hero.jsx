@@ -1,8 +1,12 @@
+import './Hero.css'
+
 export default function Hero() {
     return (
         <>
             <div className='hero'>
-                <h1>Hi, I'm Amit Mahto</h1>
+                <p>Hi, I'm </p>
+                <h1>Amit Mahto</h1>
+                <span> Writing code keeps my brain sharp</span>
             </div>
         </>
     )
